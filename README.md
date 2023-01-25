@@ -2,7 +2,7 @@
 
 ## About
 
-This project is a simple React boilerplate written by TypeScript. it is included the necessary features needed for creating a new project.  
+This project is a simple React boilerplate written in TypeScript. It includes necessary features needed for creating a new project.  
 
 
 ## Features
@@ -11,7 +11,7 @@ This project is a simple React boilerplate written by TypeScript. it is included
 - Request provider
 - Test configuration
 - Eslint configuration
-- prettier configuration
+- Prettier configuration
 
 ## Prerequisites
 - Install [NodeJs](https://nodejs.org/en/download/)
