@@ -1,5 +1,6 @@
+import Router from './router'
 function App() {
-  return <h1>Start create your website!</h1>;
+  return <Router />;
 }
 
 export default App;
